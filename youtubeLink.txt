@@ -3,5 +3,5 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-CCTV-1 综合 || CCTV-1 || 新闻
+CCTV-1 综合 || CCTV-1 || 新闻1
 http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
